@@ -20,7 +20,7 @@
       	<form class="form-inline" action="" method="POST">
           <div class="form-group">
             <label for="id">Student ID : </label>
-            <input type="text" class="form-control" id="id" name="student_id">
+            <input type="text" class="form-control" id="id" name="student_id" placeholder="Enter Student ID">
           </div>
           <button type="submit" name="submit" class="btn btn-default">Submit</button>
           <a href="index.php"><button type="button" name="reset" class="btn btn-default">Reset</button></a>
